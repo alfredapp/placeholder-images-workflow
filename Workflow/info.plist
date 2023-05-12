@@ -715,7 +715,7 @@ Open an image from [placebear](https://placebear.com/) with the `bear` keyword.
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string>2023.0</string>
+	<string>2023.1</string>
 	<key>webaddress</key>
 	<string>https://github.com/alfredapp/placeholder-images-workflow/</string>
 </dict>
