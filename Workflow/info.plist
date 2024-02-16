@@ -190,6 +190,8 @@
 				<integer>0</integer>
 				<key>keyword</key>
 				<string>{var:kitten_keyword}</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>width {var:separator} height</string>
 				<key>text</key>
@@ -388,6 +390,8 @@
 				<integer>0</integer>
 				<key>keyword</key>
 				<string>{var:bear_keyword}</string>
+				<key>skipuniversalaction</key>
+				<true/>
 				<key>subtext</key>
 				<string>width {var:separator} height</string>
 				<key>text</key>
