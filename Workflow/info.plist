@@ -6,47 +6,11 @@
 	<string>com.alfredapp.vitor.placeholderimages</string>
 	<key>connections</key>
 	<dict>
-		<key>006191F7-5310-4E84-961F-0E17C1ECA51A</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>6712CF15-BDC8-416B-A7E9-7DAEE6BF50E1</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
 		<key>1AD9896E-4CA3-4B2D-B3AC-8DDB85EEAD33</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>2E5F6650-7592-4BAE-8B10-2087E4A00DFA</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>destinationuid</key>
-				<string>FB3D1165-963D-4871-99FC-534A707AE3D1</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
-		<key>1DE2D24C-0DFA-498C-BB61-DCA20ACF9A34</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>B94F7535-1DFF-441F-9697-0BA67F874BA1</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -68,11 +32,34 @@
 				<false/>
 			</dict>
 		</array>
-		<key>6712CF15-BDC8-416B-A7E9-7DAEE6BF50E1</key>
+		<key>74E24239-4C03-48EE-AD40-39EB037D09DD</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>B94F7535-1DFF-441F-9697-0BA67F874BA1</string>
+				<string>E99D0078-EB91-4A66-B54D-E1C29C095418</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>FB3D1165-963D-4871-99FC-534A707AE3D1</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>7BE14D12-BF10-4122-8C66-2020DB1024CC</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>248C557D-3202-4200-9177-B87A7BAE1C3A</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -85,7 +72,32 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>1DE2D24C-0DFA-498C-BB61-DCA20ACF9A34</string>
+				<string>B94F7535-1DFF-441F-9697-0BA67F874BA1</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>9CDA998C-2547-4A70-967A-FB09966BE5A5</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>7BE14D12-BF10-4122-8C66-2020DB1024CC</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>D7330D19-8932-4288-9A23-28A8A7F43708</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>B78BDE67-847D-47D2-801E-5D2CAB148C64</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -98,7 +110,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>248C557D-3202-4200-9177-B87A7BAE1C3A</string>
+				<string>9CDA998C-2547-4A70-967A-FB09966BE5A5</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -134,11 +146,24 @@
 				<false/>
 			</dict>
 		</array>
+		<key>B78BDE67-847D-47D2-801E-5D2CAB148C64</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>248C557D-3202-4200-9177-B87A7BAE1C3A</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>B94F7535-1DFF-441F-9697-0BA67F874BA1</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>E99D0078-EB91-4A66-B54D-E1C29C095418</string>
+				<string>74E24239-4C03-48EE-AD40-39EB037D09DD</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -186,64 +211,17 @@
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>{var:kitten_keyword}</string>
-				<key>skipuniversalaction</key>
-				<true/>
-				<key>subtext</key>
-				<string>width {var:separator} height</string>
-				<key>text</key>
-				<string>Kitten Placeholder Image</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>823B0CC0-1005-4975-8957-469E9C1CF25C</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>argument</key>
-				<string>{query}</string>
+				<string>{query}?grayscale</string>
 				<key>passthroughargument</key>
 				<false/>
 				<key>variables</key>
-				<dict>
-					<key>website</key>
-					<string>https://placekitten.com</string>
-				</dict>
+				<dict/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.utility.argument</string>
 			<key>uid</key>
-			<string>1DE2D24C-0DFA-498C-BB61-DCA20ACF9A34</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>skipqueryencode</key>
-				<true/>
-				<key>skipvarencode</key>
-				<true/>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>{var:website}/{var:split1}/{var:split2}</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>248C557D-3202-4200-9177-B87A7BAE1C3A</string>
+			<string>7BE14D12-BF10-4122-8C66-2020DB1024CC</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -269,11 +247,55 @@
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>skipqueryencode</key>
+				<true/>
+				<key>skipvarencode</key>
+				<true/>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>248C557D-3202-4200-9177-B87A7BAE1C3A</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>{var:image_keyword}</string>
+				<key>skipuniversalaction</key>
+				<true/>
+				<key>subtext</key>
+				<string>width {var:separator} height</string>
+				<key>text</key>
+				<string>Placeholder Image</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>823B0CC0-1005-4975-8957-469E9C1CF25C</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>conditions</key>
 				<array>
 					<dict>
 						<key>inputstring</key>
-						<string>{var:split2}</string>
+						<string>{var:size2}</string>
 						<key>matchcasesensitive</key>
 						<false/>
 						<key>matchmode</key>
@@ -305,7 +327,7 @@
 				<array>
 					<dict>
 						<key>inputstring</key>
-						<string>{var:split1}</string>
+						<string>{var:size1}</string>
 						<key>matchcasesensitive</key>
 						<false/>
 						<key>matchmode</key>
@@ -327,6 +349,55 @@
 			<string>alfred.workflow.utility.conditional</string>
 			<key>uid</key>
 			<string>E99D0078-EB91-4A66-B54D-E1C29C095418</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string>{var:grayscale_on}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>5</integer>
+						<key>matchstring</key>
+						<string></string>
+						<key>outputlabel</key>
+						<string>Grayscale</string>
+						<key>uid</key>
+						<string>D7330D19-8932-4288-9A23-28A8A7F43708</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>Colour</string>
+				<key>hideelse</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>9CDA998C-2547-4A70-967A-FB09966BE5A5</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>https://picsum.photos/{var:size1}/{var:size2}{var:image_format}</string>
+				<key>passthroughargument</key>
+				<false/>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>74E24239-4C03-48EE-AD40-39EB037D09DD</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -374,7 +445,7 @@
 				<key>trimarguments</key>
 				<true/>
 				<key>variableprefix</key>
-				<string>split</string>
+				<string>size</string>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.utility.split</string>
@@ -384,45 +455,10 @@
 			<integer>1</integer>
 		</dict>
 		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>{var:bear_keyword}</string>
-				<key>skipuniversalaction</key>
-				<true/>
-				<key>subtext</key>
-				<string>width {var:separator} height</string>
-				<key>text</key>
-				<string>Bear Placeholder Image</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
 			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
+			<string>alfred.workflow.utility.junction</string>
 			<key>uid</key>
-			<string>006191F7-5310-4E84-961F-0E17C1ECA51A</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argument</key>
-				<string>{query}</string>
-				<key>passthroughargument</key>
-				<false/>
-				<key>variables</key>
-				<dict>
-					<key>website</key>
-					<string>https://placebear.com</string>
-				</dict>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.argument</string>
-			<key>uid</key>
-			<string>6712CF15-BDC8-416B-A7E9-7DAEE6BF50E1</string>
+			<string>B78BDE67-847D-47D2-801E-5D2CAB148C64</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -436,7 +472,7 @@
 				<key>removeextension</key>
 				<false/>
 				<key>text</key>
-				<string>Got width “{var:split1}” and height “{var:split2}”</string>
+				<string>Got width “{var:size1}” and height “{var:size2}”</string>
 				<key>title</key>
 				<string>Width and height have to be numbers</string>
 			</dict>
@@ -466,7 +502,9 @@
 			<key>config</key>
 			<dict>
 				<key>argument</key>
-				<string>{variables}</string>
+				<string>Interpreting given values as:
+ Width: {var:size1}
+Height: {var:size2}</string>
 				<key>cleardebuggertext</key>
 				<false/>
 				<key>processoutputs</key>
@@ -483,26 +521,11 @@
 	<key>readme</key>
 	<string>## Usage
 
-Open the URL to a placeholder image on [placekitten](https://placekitten.com/) via the `kitten` keyword. By default the width and height are separated by a comma, but you can change it in the [Workflow’s Configuration](https://www.alfredapp.com/help/workflows/user-configuration/).
+Open the URL to a placeholder image on [Lorem Picsum](https://picsum.photos/) via the `picsum` keyword. By default the width and height are separated by a comma, but you can change it in the [Workflow’s Configuration](https://www.alfredapp.com/help/workflows/user-configuration/).
 
-![Keyword for a kitten placeholder](images/about/kitten.png)
-
-Open an image from [placebear](https://placebear.com/) with the `bear` keyword.
-
-![Keyword for a bear placeholder](images/about/bear.png)</string>
+![Keyword for opening an image](images/about/picsum.png)</string>
 	<key>uidata</key>
 	<dict>
-		<key>006191F7-5310-4E84-961F-0E17C1ECA51A</key>
-		<dict>
-			<key>colorindex</key>
-			<integer>7</integer>
-			<key>note</key>
-			<string>Start here to open a bear image</string>
-			<key>xpos</key>
-			<real>50</real>
-			<key>ypos</key>
-			<real>210</real>
-		</dict>
 		<key>1AD9896E-4CA3-4B2D-B3AC-8DDB85EEAD33</key>
 		<dict>
 			<key>colorindex</key>
@@ -510,18 +533,9 @@ Open an image from [placebear](https://placebear.com/) with the `bear` keyword.
 			<key>note</key>
 			<string>A notification explains what went wrong</string>
 			<key>xpos</key>
-			<real>650</real>
+			<real>810</real>
 			<key>ypos</key>
-			<real>330</real>
-		</dict>
-		<key>1DE2D24C-0DFA-498C-BB61-DCA20ACF9A34</key>
-		<dict>
-			<key>note</key>
-			<string>Send dimensions as an argument and save website to a variable</string>
-			<key>xpos</key>
-			<real>245</real>
-			<key>ypos</key>
-			<real>80</real>
+			<real>265</real>
 		</dict>
 		<key>248C557D-3202-4200-9177-B87A7BAE1C3A</key>
 		<dict>
@@ -530,18 +544,18 @@ Open an image from [placebear](https://placebear.com/) with the `bear` keyword.
 			<key>note</key>
 			<string>Open the desired placeholder website with the given image size</string>
 			<key>xpos</key>
-			<real>820</real>
+			<real>1140</real>
 			<key>ypos</key>
-			<real>135</real>
+			<real>85</real>
 		</dict>
 		<key>26B3CC99-38B4-4CE0-B045-D83756E66F08</key>
 		<dict>
 			<key>note</key>
 			<string>Copy the URL</string>
 			<key>xpos</key>
-			<real>1110</real>
+			<real>1430</real>
 			<key>ypos</key>
-			<real>135</real>
+			<real>85</real>
 		</dict>
 		<key>2E5F6650-7592-4BAE-8B10-2087E4A00DFA</key>
 		<dict>
@@ -550,43 +564,70 @@ Open an image from [placebear](https://placebear.com/) with the `bear` keyword.
 			<key>note</key>
 			<string>A sounds makes it clear there was an error</string>
 			<key>xpos</key>
-			<real>820</real>
+			<real>965</real>
 			<key>ypos</key>
-			<real>330</real>
+			<real>265</real>
 		</dict>
-		<key>6712CF15-BDC8-416B-A7E9-7DAEE6BF50E1</key>
+		<key>74E24239-4C03-48EE-AD40-39EB037D09DD</key>
 		<dict>
 			<key>note</key>
-			<string>Send dimensions as an argument and save website to a variable</string>
+			<string>Construct the initial URL</string>
 			<key>xpos</key>
-			<real>245</real>
+			<real>400</real>
 			<key>ypos</key>
-			<real>240</real>
+			<real>115</real>
+		</dict>
+		<key>7BE14D12-BF10-4122-8C66-2020DB1024CC</key>
+		<dict>
+			<key>note</key>
+			<string>Add grayscale parameter to URL</string>
+			<key>xpos</key>
+			<real>1005</real>
+			<key>ypos</key>
+			<real>65</real>
 		</dict>
 		<key>823B0CC0-1005-4975-8957-469E9C1CF25C</key>
 		<dict>
 			<key>colorindex</key>
 			<integer>7</integer>
 			<key>note</key>
-			<string>Start here to open a kitten image</string>
+			<string>Give a width and height</string>
 			<key>xpos</key>
-			<real>50</real>
+			<real>80</real>
 			<key>ypos</key>
-			<real>50</real>
+			<real>85</real>
+		</dict>
+		<key>9CDA998C-2547-4A70-967A-FB09966BE5A5</key>
+		<dict>
+			<key>note</key>
+			<string>If image should be greyscale.</string>
+			<key>xpos</key>
+			<real>835</real>
+			<key>ypos</key>
+			<real>105</real>
 		</dict>
 		<key>A33F9830-DD0F-4297-9ED1-2DC1B91F8112</key>
 		<dict>
 			<key>note</key>
 			<string>Verify that height is a number</string>
 			<key>xpos</key>
-			<real>665</real>
+			<real>675</real>
 			<key>ypos</key>
-			<real>155</real>
+			<real>105</real>
 		</dict>
 		<key>A7DA9E2C-AD6B-40DF-B97A-83005666723F</key>
 		<dict>
 			<key>note</key>
 			<string>Only continue if the option to copy is set in the configuration, passing along the result from the Open URL</string>
+			<key>xpos</key>
+			<real>1325</real>
+			<key>ypos</key>
+			<real>115</real>
+		</dict>
+		<key>B78BDE67-847D-47D2-801E-5D2CAB148C64</key>
+		<dict>
+			<key>note</key>
+			<string>Pass URL as is</string>
 			<key>xpos</key>
 			<real>1005</real>
 			<key>ypos</key>
@@ -597,18 +638,18 @@ Open an image from [placebear](https://placebear.com/) with the `bear` keyword.
 			<key>note</key>
 			<string>Split the input by the chosen separator into variables</string>
 			<key>xpos</key>
-			<real>395</real>
+			<real>275</real>
 			<key>ypos</key>
-			<real>165</real>
+			<real>115</real>
 		</dict>
 		<key>E99D0078-EB91-4A66-B54D-E1C29C095418</key>
 		<dict>
 			<key>note</key>
 			<string>Verify that width is a number</string>
 			<key>xpos</key>
-			<real>510</real>
+			<real>520</real>
 			<key>ypos</key>
-			<real>155</real>
+			<real>105</real>
 		</dict>
 		<key>FB3D1165-963D-4871-99FC-534A707AE3D1</key>
 		<dict>
@@ -617,9 +658,9 @@ Open an image from [placebear](https://placebear.com/) with the `bear` keyword.
 			<key>note</key>
 			<string>Sending information to the debugger helps to find problems</string>
 			<key>xpos</key>
-			<real>820</real>
+			<real>545</real>
 			<key>ypos</key>
-			<real>495</real>
+			<real>295</real>
 		</dict>
 	</dict>
 	<key>userconfigurationconfig</key>
@@ -628,7 +669,7 @@ Open an image from [placebear](https://placebear.com/) with the `bear` keyword.
 			<key>config</key>
 			<dict>
 				<key>default</key>
-				<string>kitten</string>
+				<string>picsum</string>
 				<key>placeholder</key>
 				<string></string>
 				<key>required</key>
@@ -639,32 +680,11 @@ Open an image from [placebear](https://placebear.com/) with the `bear` keyword.
 			<key>description</key>
 			<string></string>
 			<key>label</key>
-			<string>Kitten Keyword</string>
+			<string>Image Keyword</string>
 			<key>type</key>
 			<string>textfield</string>
 			<key>variable</key>
-			<string>kitten_keyword</string>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>default</key>
-				<string>bear</string>
-				<key>placeholder</key>
-				<string></string>
-				<key>required</key>
-				<false/>
-				<key>trim</key>
-				<true/>
-			</dict>
-			<key>description</key>
-			<string>Keywords for each placeholder type.</string>
-			<key>label</key>
-			<string>Bear Keyword</string>
-			<key>type</key>
-			<string>textfield</string>
-			<key>variable</key>
-			<string>bear_keyword</string>
+			<string>image_keyword</string>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -700,11 +720,56 @@ Open an image from [placebear](https://placebear.com/) with the `bear` keyword.
 			<key>config</key>
 			<dict>
 				<key>default</key>
+				<string>.jpg</string>
+				<key>pairs</key>
+				<array>
+					<array>
+						<string>JPEG</string>
+						<string>.jpg</string>
+					</array>
+					<array>
+						<string>WebP</string>
+						<string>.webp</string>
+					</array>
+				</array>
+			</dict>
+			<key>description</key>
+			<string></string>
+			<key>label</key>
+			<string>Format</string>
+			<key>type</key>
+			<string>popupbutton</string>
+			<key>variable</key>
+			<string>image_format</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>default</key>
 				<false/>
 				<key>required</key>
 				<false/>
 				<key>text</key>
-				<string>Copy URL after opening</string>
+				<string>Use black and white images</string>
+			</dict>
+			<key>description</key>
+			<string></string>
+			<key>label</key>
+			<string>Grayscale</string>
+			<key>type</key>
+			<string>checkbox</string>
+			<key>variable</key>
+			<string>grayscale_on</string>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>default</key>
+				<true/>
+				<key>required</key>
+				<false/>
+				<key>text</key>
+				<string>Copy image URL</string>
 			</dict>
 			<key>description</key>
 			<string></string>
@@ -716,8 +781,6 @@ Open an image from [placebear](https://placebear.com/) with the `bear` keyword.
 			<string>copy_url</string>
 		</dict>
 	</array>
-	<key>variablesdontexport</key>
-	<array/>
 	<key>version</key>
 	<string>2023.1</string>
 	<key>webaddress</key>
