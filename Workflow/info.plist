@@ -228,25 +228,6 @@
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>autopaste</key>
-				<false/>
-				<key>clipboardtext</key>
-				<string>{query}</string>
-				<key>ignoredynamicplaceholders</key>
-				<false/>
-				<key>transient</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.clipboard</string>
-			<key>uid</key>
-			<string>26B3CC99-38B4-4CE0-B045-D83756E66F08</string>
-			<key>version</key>
-			<integer>3</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>browser</key>
 				<string></string>
 				<key>skipqueryencode</key>
@@ -264,6 +245,25 @@
 			<string>248C557D-3202-4200-9177-B87A7BAE1C3A</string>
 			<key>version</key>
 			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>autopaste</key>
+				<false/>
+				<key>clipboardtext</key>
+				<string>{query}</string>
+				<key>ignoredynamicplaceholders</key>
+				<false/>
+				<key>transient</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.clipboard</string>
+			<key>uid</key>
+			<string>26B3CC99-38B4-4CE0-B045-D83756E66F08</string>
+			<key>version</key>
+			<integer>3</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -327,38 +327,6 @@
 				<array>
 					<dict>
 						<key>inputstring</key>
-						<string>{var:size1}</string>
-						<key>matchcasesensitive</key>
-						<false/>
-						<key>matchmode</key>
-						<integer>4</integer>
-						<key>matchstring</key>
-						<string>^\d+$</string>
-						<key>outputlabel</key>
-						<string>Is a number</string>
-						<key>uid</key>
-						<string>56E2FBFC-E24C-4DC1-969F-E1D629E72A55</string>
-					</dict>
-				</array>
-				<key>elselabel</key>
-				<string>Not a number</string>
-				<key>hideelse</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.utility.conditional</string>
-			<key>uid</key>
-			<string>E99D0078-EB91-4A66-B54D-E1C29C095418</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>conditions</key>
-				<array>
-					<dict>
-						<key>inputstring</key>
 						<string>{var:grayscale_on}</string>
 						<key>matchcasesensitive</key>
 						<false/>
@@ -381,6 +349,38 @@
 			<string>alfred.workflow.utility.conditional</string>
 			<key>uid</key>
 			<string>9CDA998C-2547-4A70-967A-FB09966BE5A5</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string>{var:size1}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>4</integer>
+						<key>matchstring</key>
+						<string>^\d+$</string>
+						<key>outputlabel</key>
+						<string>Is a number</string>
+						<key>uid</key>
+						<string>56E2FBFC-E24C-4DC1-969F-E1D629E72A55</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>Not a number</string>
+				<key>hideelse</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>E99D0078-EB91-4A66-B54D-E1C29C095418</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
