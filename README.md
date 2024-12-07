@@ -6,10 +6,6 @@ Get placeholder images for design and code
 
 ## Usage
 
-Open the URL to a placeholder image on [placekitten](https://placekitten.com/) via the `kitten` keyword. By default the width and height are separated by a comma, but you can change it in the [Workflow’s Configuration](https://www.alfredapp.com/help/workflows/user-configuration/).
+Open the URL to a placeholder image on [Lorem Picsum](https://picsum.photos/) via the `picsum` keyword. By default the width and height are separated by a comma, but you can change it in the [Workflow’s Configuration](https://www.alfredapp.com/help/workflows/user-configuration/).
 
-![Keyword for a kitten placeholder](Workflow/images/about/kitten.png)
-
-Open an image from [placebear](https://placebear.com/) with the `bear` keyword.
-
-![Keyword for a bear placeholder](Workflow/images/about/bear.png)
+![Keyword for opening an image](Workflow/images/about/picsum.png)
